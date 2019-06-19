@@ -1,4 +1,4 @@
-AWSTemplateFormatVersion: "2019-06-19"
+AWSTemplateFormatVersion: "2010-09-09"
 Description: "PH3AR Analytics API Gateway and Lambda function"
 
 Parameters:
